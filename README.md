@@ -1,6 +1,6 @@
 # Baking Sourdough Cinnamon Rolls
 
-An example lesson teaching how to bake the world's best sourdough cinnamon rolls.
+An example lesson teaching how to bake the world's best sourdough cinnamon rolls 😂.
 
 Generated from [_crispy-doodle_](https://github.com/carpentries/crispy-doodle).
 
